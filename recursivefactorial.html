@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Recursive Factorial using JavaScript - Jason Aballe</h1>
+
+<label>Number</label><br>
+<input type="number" id="number" />
+
+<button class="" id="submitbtn">Submit</button>
+<br>
+<label>Result is: <b id="result"></b></label>
+
+<script>
+	document.getElementById("submitbtn").onclick = function() {myFunction()};
+
+  function myFunction() {
+  	var value = document.getElementById("number").value;
+    var total = value;
+    
+    for(var x = value; x > 1; x--){
+    	var next_value = (x - 1);
+        total = (total * next_value);
+    }
+    
+    document.getElementById("result").innerHTML = total;
+  }
+</script>
+
+</body>
+</html>
