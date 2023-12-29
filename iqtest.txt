@@ -1,0 +1,5 @@
+1. my answer is number 2 because of the pattern angle (130, 50, 230, and 310 degrees angle) on each edge.
+2. My answer on that is number 2 due to increasing size pattern.
+3. I choose number 2. because the pattern starts that the left line are on the left side then in the next sequence, it should be the number 4 on which the lines are both in the left and right position and in the last sequence, they are in the middle. Its like 2 squares moving away at each other.
+4. answer is number 4. because the white circle has a pattern on floating on very edge of the box then on the left side, the lines are floating on the bottom while on the right, its in top. Then the box is very obious that it is the opposite on the left side's box position.
+5. my answer is number 3. because the pattern of circles are always started from bottom to top. then on the bottom side, both left and right boxes are in upward position.
